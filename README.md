@@ -21,3 +21,9 @@ https://github.com/TGX-Android/Telegram-X
 
 8:Mercurygram
 https://github.com/Mercurygram/Mercurygram
+
+9:Telegram-FOSS
+https://github.com/Telegram-FOSS-Team/Telegram-FOSS
+
+10:AyuGram for Android
+https://github.com/AyuGram/AyuGram4A
