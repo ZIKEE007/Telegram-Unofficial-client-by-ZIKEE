@@ -27,3 +27,6 @@ https://github.com/Telegram-FOSS-Team/Telegram-FOSS
 
 10:AyuGram for Android
 https://github.com/AyuGram/AyuGram4A
+
+11:Nicegram
+https://github.com/nicegram/Nicegram-Android
