@@ -15,3 +15,9 @@ https://github.com/exteraSquad/exteraGram
 
 6:Momogram
 https://github.com/dic1911/Momogram
+
+7:Telegram X
+https://github.com/TGX-Android/Telegram-X
+
+8:Mercurygram
+https://github.com/Mercurygram/Mercurygram
